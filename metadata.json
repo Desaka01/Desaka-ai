@@ -1,0 +1,7 @@
+{
+  "name": "DESAKA AI — Asisten Sekolah Pintar",
+  "description": "Aplikasi Bel Sekolah Otomatis, AI Voice Announcer, Customer Service Pintar & Guru Virtual berbasis AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
